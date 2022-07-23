@@ -40,14 +40,6 @@ Blood Stock Page- Admin can add new details about availbility of blood as well a
 
 ![6](https://user-images.githubusercontent.com/72203316/180491543-e56d52ed-131a-43f1-aa4d-132b92f5b5fd.jpeg)
 
-## Team
- Members
-* Aditya Kumar Dubey
-* Ashwin Puntambekar
-* Geetanjali
-
-![Contact us](https://user-images.githubusercontent.com/72203316/180492374-bcf61e6a-74a8-40c4-8912-028fadedd4a8.jpeg)
-
 ## Tech Stack
 * PHP
 * HTML
